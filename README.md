@@ -14,3 +14,14 @@ Used Decision Tree, Regression and Neural Networks model and compare the three m
 Deciding optimal data mining methods (clustering, text mining, association mining and web mining) 
 for given problems, and answering them with following data mining model results.
 
+## Outcomes
+### Understand and create supervised learning models and optimisation of model accuracy.
+- Decision trees
+- Regression
+- Neural networks
+
+### Understand and create un-supervised learning models.
+- Clustering
+- Association mining
+- Text mining
+- Web mining
